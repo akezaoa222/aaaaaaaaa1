@@ -630,7 +630,7 @@
                       <article class="media pool-detail" style="position: relative;">
                         <figure class="media-left" style="border: 1px solid rgba(249, 81, 146, 0.2); border-radius: 50%; overflow: hidden;">
                           <p class="image is-64x64">
-                            <img src="logo.2fe68a84.png"" width="998" height="998" style="filter: grayscale(0);">
+                            <img src="-P0TfHU3_400x400.jpg"" width="400" height="400" style="filter: grayscale(0);">
                           </p>
                         </figure>
                         <div class="media-content">
@@ -758,11 +758,11 @@
                             </tr>
                             <tr>
                               <td>Presale Start Time</td>
-                              <td class="has-text-right">2022.04.04 05:00 (UTC)</td>
+                              <td class="has-text-right">2022.04.24 19:00 (UTC)</td>
                             </tr>
                             <tr>
                               <td>Presale End Time</td>
-                              <td class="has-text-right">2022.04.10 19:00 (UTC)</td>
+                              <td class="has-text-right">2022.04.25 21:00 (UTC)</td>
                             </tr>
                             <tr>
                               <td>Listing On</td>
@@ -804,7 +804,7 @@
                      <thead>
                         <tr>
                            <th>No.</th>
-                           <th>Address (340)</th>
+                           <th>Address (1500)</th>
                         </tr>
                      </thead>
                      <tbody>
